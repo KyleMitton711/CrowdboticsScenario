@@ -1,5 +1,9 @@
 # crowdbotics
 
+### API doc
+
+https://hiring-example-25770.botics.co/api-docs/
+
 ## Project setup
 ```
 yarn install
